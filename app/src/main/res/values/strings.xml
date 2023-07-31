@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Komunikasi ViewModel</string>
+    <string name="tab_text_1">Input</string>
+    <string name="tab_text_2">Hasil Kiri</string>
+    <string name="tab_text_3">Hasil Kanan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
